@@ -1,5 +1,11 @@
 {
   "name": "ngx-cron-editor",
+  "main": "dist/bundles/ngx-cron-editor.umd.js",
+  "module": "dist/fesm2015/ngx-cron-editor.js",
+  "es2015": "dist/fesm2015/ngx-cron-editor.js",
+  "esm2015": "dist/esm2015/ngx-cron-editor.js",
+  "fesm2015": "dist/fesm2015/ngx-cron-editor.js",
+  "typings": "dist/ngx-cron-editor.d.ts",
   "description": "A cron expression generator for Angular 8",
   "author": "Håvard D. Johansen",
   "contributors": [
